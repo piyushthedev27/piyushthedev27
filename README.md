@@ -1,110 +1,124 @@
-# 👋 Hi, I'm Piyush  
-### AIML Student | Java Developer | AI Enthusiast  
+<h1 align="center">Hi 👋, I'm Piyush Prajapat</h1>
+<h3 align="center">AIML Student | Java Developer | AI Enthusiast</h3>
 
-Welcome to my GitHub profile! 🚀  
-Here you’ll find my projects, learning journey, and experiments in software development, Artificial Intelligence, and system design.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&height=50&lines=AIML+Student;Java+Developer;AI+Enthusiast;Flutter+Developer;Lifelong+Learner;Open+Source+Contributor" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyushthedev27&label=Profile%20Views&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-I am a **Student specializing in Artificial Intelligence & Machine Learning (AIML)** with a strong passion for technology and problem-solving.  
-I enjoy building practical applications, exploring AI concepts, and improving my programming skills through real-world projects.  
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+</p>
 
-I believe in **learning by building**, so most of my knowledge comes from hands-on projects, academic coursework, and self-practice.
+🎓 AIML Student passionate about Artificial Intelligence, Software Development, and System Design.  
 
-### 🎯 My Learning Focus  
-- Artificial Intelligence & Machine Learning  
-- Java Programming & OOP  
-- Operating Systems  
-- Flutter App Development  
-- System Design & Architecture  
+💡 I believe in **learning by building** and continuously improving through real-world projects.
 
-### 🌟 My Goals  
-- Become a skilled **AI/ML Engineer**  
-- Build intelligent, real-world **AI-based applications**  
-- Strengthen my **software development** foundation  
-- Publish academic and technical projects  
-- Contribute to open-source communities  
+- 🔭 Learning: **AI/ML, Java, OS, System Design**  
+- 🌱 Exploring: **Mobile & Intelligent Apps**  
+- 🎯 Goal: **Professional AI/ML Engineer**  
+- 💬 Ask me about: **Java, Flutter, AI, UI/UX**
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech Stack  
 
-### 💻 Programming Languages  
-- Java  
-- Dart (Flutter)  
-- Python (Basics for AI/ML)  
-- C (Fundamentals)  
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🔧 Tools & Technologies  
-- Flutter  
-- Figma (UI/UX Design)  
-- Git & GitHub  
-- Android Studio  
-- VS Code  
-
-### 📚 Technical Concepts  
-- Object-Oriented Programming (OOP)  
-- Artificial Intelligence Fundamentals  
-- Machine Learning Basics  
-- Operating Systems  
-- Multithreading  
-- Data Structures  
-- Software Development Life Cycle (SDLC)  
-- UI/UX Design Principles  
+### 🔧 Tools  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
-## 🚀 Projects  
+## 📚 Technical Knowledge  
+
+✔️ OOP & Java  
+✔️ AI & ML Basics  
+✔️ Operating Systems  
+✔️ Multithreading  
+✔️ Data Structures  
+✔️ SDLC  
+✔️ UI/UX Principles  
+
+---
+
+## 🚀 Featured Projects  
 
 ### 🔹 AI Project Idea Generator  
-A smart tool that generates creative AI coding project ideas for students and developers.  
-Helps learners choose innovative project topics based on current AI trends.  
-**Tech Used:** AI Concepts, Web Tools, Idea Generation Logic  
+🧠 Generates smart AI project ideas for learners.  
+**Tech:** AI Logic, Web Tools  
 
 ### 🔹 White-Label Restaurant App  
-A system that provides custom mobile apps for local restaurants to manage orders digitally.  
-Includes an admin panel for the developer and separate apps for restaurant owners.  
-**Tech Used:** App Design, System Architecture, UI Planning  
+📱 Custom restaurant ordering system.  
+**Tech:** System Design, UI Planning  
 
-### 🔹 Ludo Game in Flutter  
-A mobile version of the classic Ludo game built using Flutter with simple UI and gameplay logic.  
-Focused on learning Flutter widgets, navigation, and state management.  
-**Tech Used:** Flutter, Dart  
+### 🔹 Ludo Game (Flutter)  
+🎮 Mobile game built using Flutter.  
+**Tech:** Flutter, Dart  
 
 ---
 
-## 📖 Learning & Interests  
+## 🎯 Learning Focus  
 
-### 📘 Currently Studying  
-- Artificial Intelligence & Machine Learning  
-- Operating Systems  
-- Java Programming  
-- Computer Networks  
-
-### 🌱 Interested In  
-- AI Applications  
-- Machine Learning Models  
-- Mobile App Development  
-- System Design  
-- Research & Paper Publishing  
-- Open-Source Projects  
+- 🤖 AI & Machine Learning  
+- ☕ Java Development  
+- 🖥️ Operating Systems  
+- 📱 Flutter  
+- 🏗️ System Architecture  
 
 ---
 
+## 📊 GitHub Stats  
 
-## 📬 Contact & Social Links  
-
-- 📧 Email: piyushthedev27@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/piyushprajapat/
-- 🌐 GitHub: https://github.com/piyushthedev27
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushthedev27&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushthedev27&theme=tokyonight" />
+</p>
 
 ---
 
-## ✨ Final Note  
+## 🐍 Contribution Snake  
 
-Thank you for visiting my GitHub profile!  
-I am continuously learning, building, and improving my skills in **AI, ML, and Software Development**.  
-Feel free to explore my repositories, give feedback, or connect with me.  
-Let’s grow together in the world of technology! 💻🚀  
+![Snake animation](https://github.com/piyushthedev27/piyushthedev27/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+<a href="mailto:piyushthedev27@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/piyushprajapat/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/piyushthedev27" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ✨ Quote  
+
+> "Learn. Build. Improve. Repeat." 🔁  
+
+---
+
+⭐ Thanks for visiting my profile!  
+Let’s connect, collaborate, and grow together 🚀
