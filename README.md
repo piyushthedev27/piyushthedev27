@@ -27,7 +27,7 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif"/>
 
 ```yaml
-Name      : Piyush Prajapat
+Name      : Piyush Prajapat.
 Role      : AIML Student & Developer
 Location  : Mumbai, India 🇮🇳
 
