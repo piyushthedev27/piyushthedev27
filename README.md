@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif"/>
+<img align="right" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" width="400" alt="coding gif"/>
 
 ```yaml
 Name      : Piyush Prajapat.
