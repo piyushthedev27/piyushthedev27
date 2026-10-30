@@ -57,18 +57,9 @@ A coding education platform with AI study partners, code duels, guild battles, a
 - **Languages:** JavaScript, TypeScript, Dart, Python, Java, SQL
 - **Tools:** Git, VS Code, Figma, Android Studio, Blender, Photoshop
 
-## GitHub activity
+## GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushthedev27&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Piyush's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushthedev27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used programming languages" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=piyushthedev27&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
+Explore my [repositories](https://github.com/piyushthedev27?tab=repositories) and [contribution activity](https://github.com/piyushthedev27).
 
 ## Let’s work together
 
